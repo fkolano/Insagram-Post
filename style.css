@@ -1,22 +1,2 @@
 body { background-color: black;
 }
-.cardbody {background-color: #efff;}
-
-.cardimg {
-    width: 25rem;
-    height: auto;
-}
-.lefticons {
-    display: flex;
-    flex-direction: row;
-    font-size: 2rem;
-}
-.lefticons i:nth-of-type(3n-1) {
-    color: green;
-}
-.lefticons i:nth-of-type(3n) {
-    color: blue;
-}
-.lefticons i:nth-of-type(3n+1) {
-    color: red;
-}
