@@ -1,8 +1,25 @@
 body {
-    background: red;
+    background: black !important;
+  }
+  
+  
+  .card {
     
-}
+    padding-bottom: 25px;
 
-.cardnames {
+  }
+  
+  .cardnames {
     
-}
+    margin-left: 8px;
+  }
+  
+  .cardnames h6 {
+    margin: 0px;
+  }
+  
+  .ellipsisIcon {
+    margin-right: 5px;
+    margin-top: 3px;
+  }
+  
